@@ -4,7 +4,7 @@ public class ProductApp {
 
     public static void main(String args[]) {
         // display a welcome message
-        System.out.println("Welcome to the Product Viewer");
+        System.out.println("Welcome to the Product App");
         System.out.println();
 
         // perform 1 or more selections

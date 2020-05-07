@@ -14,7 +14,7 @@ public class ProductDB {
             Book b = new Book();
             if (productCode.equalsIgnoreCase("java")) {
                 b.setCode(productCode);
-                b.setDescription("GMIT Java Programming");
+                b.setDescription("Java Programming");
                 b.setPrice(57.50);
                 b.setAuthor("Joe Brown");
             } else if (productCode.equalsIgnoreCase("jsp")) {
